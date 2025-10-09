@@ -1,0 +1,34 @@
+workday-financials-data-conversion-lead-demo/
+│
+├── README.md
+├── data/
+│   ├── legacy/
+│   │   ├── netsuite_gl.csv
+│   │   ├── netsuite_assets.csv
+│   │   ├── concur_suppliers.csv
+│   │   └── blackline_commissions.csv
+│   ├── transformed/
+│   │   ├── workday_gl_workbook.csv
+│   │   ├── workday_assets_workbook.csv
+│   │   └── workday_suppliers_workbook.csv
+│   └── mapping/
+│       ├── gl_mapping.xlsx
+│       ├── assets_mapping.xlsx
+│       └── suppliers_mapping.xlsx
+│
+├── scripts/
+│   ├── extract_data.py
+│   ├── transform_data.py
+│   ├── validate_data.py
+│   └── generate_summary_report.py
+│
+├── docs/
+│   ├── Data_Conversion_Plan.md
+│   ├── Data_Validation_Log.md
+│   ├── Weekly_Status_Template.md
+│   └── Lessons_Learned.md
+│
+├── reports/
+│   └── conversion_summary_report.csv
+│
+└── requirements.txt
