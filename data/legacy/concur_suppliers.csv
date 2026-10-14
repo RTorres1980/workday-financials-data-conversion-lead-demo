@@ -1,0 +1,63 @@
+Supplier_ID,Supplier_Name,Country,Tax_ID,Category,Payment_Terms,Status,Email
+S0001,Apex Software Group,UK,20-6488762,Software,Due on receipt,Active,ap1@example.com
+S0002,Oakmont Logistics Inc.,US,,Logistics,Due on receipt,Active,ap2@example.com
+S0003,Trident Facilities Inc.,United States,35-9740824,Facilities,Net 30,Active,ap3@example.com
+S0004,Cedar Supplies Inc.,USA,15-6627946,Supplies,Net 45,Inactive,ap4@example.com
+S0005,Apex Consulting Ltd.,United States,35-9248541,Consulting,Net 60,Active,ap5@example.com
+S0006,Redwood Logistics Group,USA,40-1739222,Logistics,Net 45,Active,ap6@example.com
+S0007,Apex Logistics Ltd.,US,29-7368114,Logistics,Net 60,Active,ap7@example.com
+S0008,Juniper Staffing Group,US,70-3274140,Staffing,Net 45,Active,ap8@example.com
+S0009,Northstar Facilities LLC,USA,22-6060175,Facilities,Net 60,Active,ap9@example.com
+S0010,Trident Facilities LLC,USA,62-2408441,Facilities,Net 45,Active,ap10@example.com
+S0011,Frontier Staffing Inc.,USA,90-7806288,Staffing,Net 60,Active,ap11@example.com
+S0012,Summit Supplies Ltd.,United Kingdom,34-2379353,Supplies,Due on receipt,Active,ap12@example.com
+S0013,Keystone Logistics Ltd.,USA,69-1096269,Logistics,Net 60,Active,ap13@example.com
+S0014,Meridian Staffing Group,US,,Staffing,Due on receipt,Active,ap14@example.com
+S0015,Oakmont Software Group,United States,13-4203131,Software,Net 45,Active,ap15@example.com
+S0016,Apex Consulting Ltd.,USA,28-1823531,Consulting,Net 45,Active,ap16@example.com
+S0017,Granite Supplies Ltd.,USA,17-9417072,Supplies,Due on receipt,Active,ap17@example.com
+S0018,Harbor Logistics Ltd.,USA,95-1191678,Logistics,Net 45,Active,ap18@example.com
+S0019,Cedar Logistics Ltd.,US,27-6081990,Logistics,Net 45,Active,ap19@example.com
+S0020,Redwood Supplies Ltd.,USA,11-5512291,Supplies,Net 60,Active,ap20@example.com
+S0021,Lakeside Facilities Group,USA,81-1585464,Facilities,Net 60,Active,ap21@example.com
+S0022,Delta Staffing Ltd.,United Kingdom,51-9458791,Staffing,Net 30,Active,ap22@example.com
+S0023,Redwood Consulting Ltd.,USA,,Consulting,Net 60,Active,ap23@example.com
+S0024,Quarry Facilities Group,USA,73-6719911,Facilities,Net 60,Active,ap24@example.com
+S0025,Pinnacle Staffing Group,United States,91-7598361,Staffing,Due on receipt,Inactive,ap25@example.com
+S0026,Pinnacle Staffing Inc.,United States,10-6596827,Staffing,Net 30,Active,ap26@example.com
+S0027,Pinnacle Facilities Group,USA,20-4274388,Facilities,Net 45,Active,ap27@example.com
+S0028,Frontier Supplies Group,US,69-5364678,Supplies,Net 45,Active,ap28@example.com
+S0029,Summit Consulting Ltd.,United States,59-3233987,Consulting,Net 45,Active,ap29@example.com
+S0030,Northstar Software Group,United States,32-3829654,Software,Net 30,Active,ap30@example.com
+S0031,Redwood Logistics Inc.,USA,48-6914018,Logistics,Net 45,Active,ap31@example.com
+S0032,Summit Logistics Ltd.,US,37-8519647,Logistics,Net 60,Active,ap32@example.com
+S0033,Evergreen Facilities Inc.,US,37-9122651,Facilities,Net 30,Active,ap33@example.com
+S0034,Evergreen Consulting Inc.,UK,40-8409078,Consulting,Due on receipt,Active,ap34@example.com
+S0035,Blue Ridge Logistics Inc.,USA,84-2081351,Logistics,Net 60,Active,ap35@example.com
+S0036,Apex Facilities Inc.,UK,57-5355896,Facilities,Net 30,Active,ap36@example.com
+S0037,Frontier Logistics Group,United Kingdom,32-7341842,Logistics,Net 30,Active,ap37@example.com
+S0038,Ironwood Staffing LLC,USA,93-1380573,Staffing,Net 60,Active,ap38@example.com
+S0039,Trident Consulting LLC,US,89-2374803,Consulting,Net 60,Active,ap39@example.com
+S0040,Meridian Facilities Ltd.,UK,39-5401027,Facilities,Net 30,Active,ap40@example.com
+S0041,Meridian Supplies Ltd.,United States,,Supplies,Net 30,Active,ap41@example.com
+S0042,Ironwood Staffing Inc.,United States,63-6614409,Staffing,Net 45,Active,ap42@example.com
+S0043,Trident Logistics LLC,USA,88-5355176,Logistics,Net 30,Active,ap43@example.com
+S0044,Quarry Facilities Ltd.,United States,83-1021282,Facilities,Net 60,Active,ap44@example.com
+S0045,Pinnacle Software Inc.,USA,91-4892438,Software,Net 60,Active,ap45@example.com
+S0046,Blue Ridge Logistics Inc.,USA,63-9399883,Logistics,Net 45,Active,ap46@example.com
+S0047,Apex Supplies Group,United States,68-6616317,Supplies,Net 30,Active,ap47@example.com
+S0048,Redwood Staffing Inc.,United States,59-3071611,Staffing,Net 45,Active,ap48@example.com
+S0049,Quarry Software Ltd.,United States,22-4329415,Software,Net 45,Active,ap49@example.com
+S0050,Blue Ridge Software Group,USA,15-3746441,Software,Net 30,Active,ap50@example.com
+S0051,Ironwood Facilities Inc.,GB,,Facilities,Due on receipt,Active,ap51@example.com
+S0052,Frontier Software Inc.,United States,69-1290940,Software,Net 45,Active,ap52@example.com
+S0053,Keystone Facilities Ltd.,United States,47-2212427,Facilities,Net 60,Active,ap53@example.com
+S0054,Lakeside Software Ltd.,US,67-7794603,Software,Net 45,Active,ap54@example.com
+S0055,Keystone Software Ltd.,UK,98-6192017,Software,Due on receipt,Active,ap55@example.com
+S0056,Frontier Consulting Inc.,US,33-4065053,Consulting,Due on receipt,Active,ap56@example.com
+S0057,Northstar Supplies Group,United Kingdom,20-2270909,Supplies,Due on receipt,Active,ap57@example.com
+S0058,Lakeside Logistics Ltd.,US,28-3477401,Logistics,Net 30,Active,ap58@example.com
+S0059,Frontier Supplies Inc.,United States,23-4191560,Supplies,Net 45,Active,ap59@example.com
+S0060,Frontier Staffing Inc.,USA,59-2754603,Staffing,Net 45,Active,ap60@example.com
+S0061,APEX CONSULTING LTD. ,United States,35-9248541,Consulting,Net 60,Active,ap5@example.com
+S0062,HARBOR LOGISTICS LTD. ,USA,95-1191678,Logistics,Net 45,Active,ap18@example.com

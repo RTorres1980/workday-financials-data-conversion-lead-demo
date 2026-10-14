@@ -1,0 +1,54 @@
+Supplier_Reference_ID,Supplier_Name,Supplier_Category,Country_ISO_Code,Tax_ID,Payment_Terms,Remit_To_Email,Legacy_Supplier_ID
+CONV-S0001,Apex Software Group,Software,GBR,20-6488762,DUE_ON_RECEIPT,ap1@example.com,S0001
+CONV-S0003,Trident Facilities Inc.,Facilities,USA,35-9740824,NET_30,ap3@example.com,S0003
+CONV-S0005,Apex Consulting Ltd.,Consulting,USA,35-9248541,NET_60,ap5@example.com,S0005
+CONV-S0006,Redwood Logistics Group,Logistics,USA,40-1739222,NET_45,ap6@example.com,S0006
+CONV-S0007,Apex Logistics Ltd.,Logistics,USA,29-7368114,NET_60,ap7@example.com,S0007
+CONV-S0008,Juniper Staffing Group,Staffing,USA,70-3274140,NET_45,ap8@example.com,S0008
+CONV-S0009,Northstar Facilities LLC,Facilities,USA,22-6060175,NET_60,ap9@example.com,S0009
+CONV-S0010,Trident Facilities LLC,Facilities,USA,62-2408441,NET_45,ap10@example.com,S0010
+CONV-S0011,Frontier Staffing Inc.,Staffing,USA,90-7806288,NET_60,ap11@example.com,S0011
+CONV-S0012,Summit Supplies Ltd.,Supplies,GBR,34-2379353,DUE_ON_RECEIPT,ap12@example.com,S0012
+CONV-S0013,Keystone Logistics Ltd.,Logistics,USA,69-1096269,NET_60,ap13@example.com,S0013
+CONV-S0015,Oakmont Software Group,Software,USA,13-4203131,NET_45,ap15@example.com,S0015
+CONV-S0016,Apex Consulting Ltd.,Consulting,USA,28-1823531,NET_45,ap16@example.com,S0016
+CONV-S0017,Granite Supplies Ltd.,Supplies,USA,17-9417072,DUE_ON_RECEIPT,ap17@example.com,S0017
+CONV-S0018,Harbor Logistics Ltd.,Logistics,USA,95-1191678,NET_45,ap18@example.com,S0018
+CONV-S0019,Cedar Logistics Ltd.,Logistics,USA,27-6081990,NET_45,ap19@example.com,S0019
+CONV-S0020,Redwood Supplies Ltd.,Supplies,USA,11-5512291,NET_60,ap20@example.com,S0020
+CONV-S0021,Lakeside Facilities Group,Facilities,USA,81-1585464,NET_60,ap21@example.com,S0021
+CONV-S0022,Delta Staffing Ltd.,Staffing,GBR,51-9458791,NET_30,ap22@example.com,S0022
+CONV-S0024,Quarry Facilities Group,Facilities,USA,73-6719911,NET_60,ap24@example.com,S0024
+CONV-S0026,Pinnacle Staffing Inc.,Staffing,USA,10-6596827,NET_30,ap26@example.com,S0026
+CONV-S0027,Pinnacle Facilities Group,Facilities,USA,20-4274388,NET_45,ap27@example.com,S0027
+CONV-S0028,Frontier Supplies Group,Supplies,USA,69-5364678,NET_45,ap28@example.com,S0028
+CONV-S0029,Summit Consulting Ltd.,Consulting,USA,59-3233987,NET_45,ap29@example.com,S0029
+CONV-S0030,Northstar Software Group,Software,USA,32-3829654,NET_30,ap30@example.com,S0030
+CONV-S0031,Redwood Logistics Inc.,Logistics,USA,48-6914018,NET_45,ap31@example.com,S0031
+CONV-S0032,Summit Logistics Ltd.,Logistics,USA,37-8519647,NET_60,ap32@example.com,S0032
+CONV-S0033,Evergreen Facilities Inc.,Facilities,USA,37-9122651,NET_30,ap33@example.com,S0033
+CONV-S0034,Evergreen Consulting Inc.,Consulting,GBR,40-8409078,DUE_ON_RECEIPT,ap34@example.com,S0034
+CONV-S0035,Blue Ridge Logistics Inc.,Logistics,USA,84-2081351,NET_60,ap35@example.com,S0035
+CONV-S0036,Apex Facilities Inc.,Facilities,GBR,57-5355896,NET_30,ap36@example.com,S0036
+CONV-S0037,Frontier Logistics Group,Logistics,GBR,32-7341842,NET_30,ap37@example.com,S0037
+CONV-S0038,Ironwood Staffing LLC,Staffing,USA,93-1380573,NET_60,ap38@example.com,S0038
+CONV-S0039,Trident Consulting LLC,Consulting,USA,89-2374803,NET_60,ap39@example.com,S0039
+CONV-S0040,Meridian Facilities Ltd.,Facilities,GBR,39-5401027,NET_30,ap40@example.com,S0040
+CONV-S0042,Ironwood Staffing Inc.,Staffing,USA,63-6614409,NET_45,ap42@example.com,S0042
+CONV-S0043,Trident Logistics LLC,Logistics,USA,88-5355176,NET_30,ap43@example.com,S0043
+CONV-S0044,Quarry Facilities Ltd.,Facilities,USA,83-1021282,NET_60,ap44@example.com,S0044
+CONV-S0045,Pinnacle Software Inc.,Software,USA,91-4892438,NET_60,ap45@example.com,S0045
+CONV-S0046,Blue Ridge Logistics Inc.,Logistics,USA,63-9399883,NET_45,ap46@example.com,S0046
+CONV-S0047,Apex Supplies Group,Supplies,USA,68-6616317,NET_30,ap47@example.com,S0047
+CONV-S0048,Redwood Staffing Inc.,Staffing,USA,59-3071611,NET_45,ap48@example.com,S0048
+CONV-S0049,Quarry Software Ltd.,Software,USA,22-4329415,NET_45,ap49@example.com,S0049
+CONV-S0050,Blue Ridge Software Group,Software,USA,15-3746441,NET_30,ap50@example.com,S0050
+CONV-S0052,Frontier Software Inc.,Software,USA,69-1290940,NET_45,ap52@example.com,S0052
+CONV-S0053,Keystone Facilities Ltd.,Facilities,USA,47-2212427,NET_60,ap53@example.com,S0053
+CONV-S0054,Lakeside Software Ltd.,Software,USA,67-7794603,NET_45,ap54@example.com,S0054
+CONV-S0055,Keystone Software Ltd.,Software,GBR,98-6192017,DUE_ON_RECEIPT,ap55@example.com,S0055
+CONV-S0056,Frontier Consulting Inc.,Consulting,USA,33-4065053,DUE_ON_RECEIPT,ap56@example.com,S0056
+CONV-S0057,Northstar Supplies Group,Supplies,GBR,20-2270909,DUE_ON_RECEIPT,ap57@example.com,S0057
+CONV-S0058,Lakeside Logistics Ltd.,Logistics,USA,28-3477401,NET_30,ap58@example.com,S0058
+CONV-S0059,Frontier Supplies Inc.,Supplies,USA,23-4191560,NET_45,ap59@example.com,S0059
+CONV-S0060,Frontier Staffing Inc.,Staffing,USA,59-2754603,NET_45,ap60@example.com,S0060
