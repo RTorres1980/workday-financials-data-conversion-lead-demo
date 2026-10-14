@@ -1,0 +1,29 @@
+Subsidiary,Account_Number,Department,Debit,Credit,Account_Name,Account_Type,Workday_Ledger_Account,Workday_Cost_Center,Workday_Company,Reason,Object,Supplier_ID,Supplier_Name,Country,Tax_ID,Category,Payment_Terms,Status,Email
+US-01,4000,900,0.0,531370.08,Product Revenue,Revenue,4000,,COMP_US,No cost center mapping for department,Trial balance,,,,,,,,
+US-01,4100,900,0.0,112239.95,Services Revenue,Revenue,4010,,COMP_US,No cost center mapping for department,Trial balance,,,,,,,,
+US-01,5000,900,146171.39,0.0,Cost of Goods Sold,Expense,5000,,COMP_US,No cost center mapping for department,Trial balance,,,,,,,,
+US-01,6200,900,42632.4,0.0,Rent,Expense,6200,,COMP_US,No cost center mapping for department,Trial balance,,,,,,,,
+US-01,6300,900,54144.62,0.0,Software Subscriptions,Expense,6300,,COMP_US,No cost center mapping for department,Trial balance,,,,,,,,
+US-01,6400,900,17754.05,0.0,Travel,Expense,6400,,COMP_US,No cost center mapping for department,Trial balance,,,,,,,,
+US-01,6600,900,152012.96,0.0,Depreciation Expense,Expense,6600,,COMP_US,No cost center mapping for department,Trial balance,,,,,,,,
+US-01,6900,100,38006.47,0.0,Miscellaneous Expense,Expense,,CC1000,COMP_US,No ledger account mapping for NetSuite account,Trial balance,,,,,,,,
+US-01,6900,500,35904.1,0.0,Miscellaneous Expense,Expense,,CC5000,COMP_US,No ledger account mapping for NetSuite account,Trial balance,,,,,,,,
+US-01,6900,200,21210.58,0.0,Miscellaneous Expense,Expense,,CC2000,COMP_US,No ledger account mapping for NetSuite account,Trial balance,,,,,,,,
+UK-01,4100,900,0.0,54021.65,Services Revenue,Revenue,4010,,COMP_UK,No cost center mapping for department,Trial balance,,,,,,,,
+UK-01,5000,900,18979.91,0.0,Cost of Goods Sold,Expense,5000,,COMP_UK,No cost center mapping for department,Trial balance,,,,,,,,
+UK-01,6300,900,19607.27,0.0,Software Subscriptions,Expense,6300,,COMP_UK,No cost center mapping for department,Trial balance,,,,,,,,
+UK-01,6400,900,79858.61,0.0,Travel,Expense,6400,,COMP_UK,No cost center mapping for department,Trial balance,,,,,,,,
+UK-01,6500,900,6342.74,0.0,Professional Fees,Expense,6500,,COMP_UK,No cost center mapping for department,Trial balance,,,,,,,,
+UK-01,6600,900,2716.29,0.0,Depreciation Expense,Expense,6600,,COMP_UK,No cost center mapping for department,Trial balance,,,,,,,,
+UK-01,6900,100,28978.71,0.0,Miscellaneous Expense,Expense,,CC1000,COMP_UK,No ledger account mapping for NetSuite account,Trial balance,,,,,,,,
+UK-01,6900,300,42545.62,0.0,Miscellaneous Expense,Expense,,CC3000,COMP_UK,No ledger account mapping for NetSuite account,Trial balance,,,,,,,,
+UK-01,6900,400,12826.59,0.0,Miscellaneous Expense,Expense,,CC4000,COMP_UK,No ledger account mapping for NetSuite account,Trial balance,,,,,,,,
+,,,,,,,,,,"Inactive supplier, excluded from conversion",Supplier,S0004,Cedar Supplies Inc.,USA,15-6627946,Supplies,Net 45,Inactive,ap4@example.com
+,,,,,,,,,,"Inactive supplier, excluded from conversion",Supplier,S0025,Pinnacle Staffing Group,USA,91-7598361,Staffing,Due on receipt,Inactive,ap25@example.com
+,,,,,,,,,,Duplicate of S0005,Supplier,S0061,APEX CONSULTING LTD.,USA,35-9248541,Consulting,Net 60,Active,ap5@example.com
+,,,,,,,,,,Duplicate of S0018,Supplier,S0062,HARBOR LOGISTICS LTD.,USA,95-1191678,Logistics,Net 45,Active,ap18@example.com
+,,,,,,,,,,Missing required field: Tax_ID,Supplier,S0002,Oakmont Logistics Inc.,USA,,Logistics,Due on receipt,Active,ap2@example.com
+,,,,,,,,,,Missing required field: Tax_ID,Supplier,S0014,Meridian Staffing Group,USA,,Staffing,Due on receipt,Active,ap14@example.com
+,,,,,,,,,,Missing required field: Tax_ID,Supplier,S0023,Redwood Consulting Ltd.,USA,,Consulting,Net 60,Active,ap23@example.com
+,,,,,,,,,,Missing required field: Tax_ID,Supplier,S0041,Meridian Supplies Ltd.,USA,,Supplies,Net 30,Active,ap41@example.com
+,,,,,,,,,,Missing required field: Tax_ID,Supplier,S0051,Ironwood Facilities Inc.,GBR,,Facilities,Due on receipt,Active,ap51@example.com

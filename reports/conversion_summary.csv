@@ -1,0 +1,10 @@
+Check,Result,Detail
+Legacy trial balance balances (UK-01),PASS,debits - credits = 0.00
+Legacy trial balance balances (US-01),PASS,debits - credits = 0.00
+Load file balances (COMP_UK),FAIL,"debits - credits = -157,834.09"
+Load file balances (COMP_US),FAIL,"debits - credits = 135,773.46"
+All trial balance lines mapped,FAIL,19 lines held back
+Reconciles to legacy by company and account type,FAIL,4 of 10 groups differ
+No duplicate suppliers in load,PASS,2 duplicates removed
+Supplier required fields complete,FAIL,5 suppliers missing a required field
+Supplier load has unique reference IDs,PASS,53 suppliers

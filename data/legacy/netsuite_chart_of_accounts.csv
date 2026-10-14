@@ -1,0 +1,25 @@
+Account_Number,Account_Name,Account_Type
+1000,Operating Cash,Asset
+1100,Payroll Cash,Asset
+1200,Accounts Receivable,Asset
+1250,Allowance for Doubtful Accounts,Asset
+1300,Prepaid Expenses,Asset
+1500,Fixed Assets,Asset
+1550,Accumulated Depreciation,Asset
+2000,Accounts Payable,Liability
+2100,Accrued Liabilities,Liability
+2200,Payroll Liabilities,Liability
+2500,Deferred Revenue,Liability
+3000,Common Stock,Equity
+3100,Retained Earnings,Equity
+4000,Product Revenue,Revenue
+4100,Services Revenue,Revenue
+5000,Cost of Goods Sold,Expense
+6000,Salaries and Wages,Expense
+6100,Employee Benefits,Expense
+6200,Rent,Expense
+6300,Software Subscriptions,Expense
+6400,Travel,Expense
+6500,Professional Fees,Expense
+6600,Depreciation Expense,Expense
+6900,Miscellaneous Expense,Expense
