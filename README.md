@@ -1,5 +1,7 @@
 # Workday Financials Data Conversion Demo
 
+![CI](https://github.com/RTorres1980/workday-financials-data-conversion-lead-demo/actions/workflows/ci.yml/badge.svg)
+
 A working mock conversion of financial data from legacy systems into Workday Financials. The opening trial balance comes from NetSuite and the supplier master from Concur. It covers the parts a data conversion lead is responsible for: mapping tables, transformation into load files, validation, reconciliation back to the source, and the project documents that go with them.
 
 ## What happens in a run
